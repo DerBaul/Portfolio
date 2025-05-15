@@ -13,3 +13,6 @@ p{
 a{
     color: aqua;
 }
+a:hover{
+    color:chartreuse;
+}
